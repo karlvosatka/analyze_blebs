@@ -1,10 +1,14 @@
 # analyze_blebs
 
-Analyze_Blebs\n
-A semi-automated bleb analysis plugin for ImageJ / FIJI.\n
-Vosatka, KW et al. (2021)\n
-Version 1.2\n
-Last updated 11-08-2021 by Karl Vosatka\n\n
+Analyze_Blebs
+
+A semi-automated bleb analysis plugin for ImageJ / FIJI.
+
+Vosatka, KW et al. (2021)
+
+Version 1.2
+
+Last updated 11-08-2021 by Karl Vosatka
 
 Requires:
 - ImageJ v. 1.53d or later
