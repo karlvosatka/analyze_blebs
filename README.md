@@ -1,7 +1,5 @@
 # analyze_blebs
 
-Analyze_Blebs
-
 A semi-automated bleb analysis plugin for ImageJ / FIJI.
 
 Vosatka, KW et al. (2021)
