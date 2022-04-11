@@ -4,7 +4,7 @@ A semi-automated bleb analysis plugin for ImageJ / FIJI.
 
 Vosatka, KW et al. (2022)
 
-Version 1.2
+Version 1.3
 
 Last updated 03-31-2022 by Karl Vosatka
 
